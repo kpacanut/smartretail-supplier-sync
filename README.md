@@ -91,7 +91,7 @@ M-3: Sent to Supplier API | Response: 200 - Order confirmed
 
 ---
 
-## 🧪 Notes
+##  Notes
 
 - Function was tested locally due to Azure permission restrictions.
 - Traceability is implemented across all logs via correlationId.
